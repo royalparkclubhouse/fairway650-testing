@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "1.1",
+  "currentVersion": "0.6.50",
+  "latestEvent": {
+    "date": "2026-10-07",
+    "competition": "Stroke",
+    "status": "COMPLETED",
+    "roundId": "2026-10-07|Stroke|COMPLETED"
+  },
+  "latestHandicapSource": {
+    "date": "2026-10-07",
+    "competition": "Stroke",
+    "status": "COMPLETED",
+    "roundId": "2026-10-07|Stroke|COMPLETED"
+  },
+  "note": "FAIRWAY 650 isolated test repository ONLY. Based on 7 October 2026 completed Stroke round. Not for production."
+}
